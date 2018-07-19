@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 22 Jan 2018 21:55:56 at http://junaidhira.com/demo/html/tile/intro.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://junaidhira.com/demo/html/tile/intro.html -O1 "D:\q\cv1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:55:58	Warning: 	Found for junaidhira.com/robots.txt
+21:55:58	Warning: 	File has moved from junaidhira.com/robots.txt to http://themeforest.net/user/junaidhira
+21:58:01	Warning: 	Retry after error -4 (No data (connection closed)) at link junaidhira.com/demo/html/tile/font/font-awesome/fonts/fontawesome-webfont.ttf?v=4.5.0 (from junaidhira.com/demo/html/tile/font/font-awesome/css/font-awesome.min.css)
+21:58:01	Warning: 	Retry after error -4 (No data (connection closed)) at link junaidhira.com/demo/html/tile/font/material-design-icons/Material-Design-Icons.eot? (from junaidhira.com/demo/html/tile/css/materialize.min.css)
+21:58:06	Warning: 	Retry after error -4 (No data (connection closed)) at link junaidhira.com/demo/html/tile/font/material-design-icons/Material-Design-Icons.woff2 (from junaidhira.com/demo/html/tile/css/materialize.min.css)
+21:58:08	Warning: 	Retry after error -4 (No data (connection closed)) at link junaidhira.com/demo/html/tile/font/material-design-icons/Material-Design-Icons.svg (from junaidhira.com/demo/html/tile/css/materialize.min.css)
+21:58:15	Warning: 	Retry after error -4 (No data (connection closed)) at link junaidhira.com/demo/html/tile/font/roboto/Roboto-Light.woff2 (from junaidhira.com/demo/html/tile/css/materialize.min.css)
+21:58:18	Warning: 	Retry after error -4 (No data (connection closed)) at link junaidhira.com/demo/html/tile/font/roboto/Roboto-Light.woff (from junaidhira.com/demo/html/tile/css/materialize.min.css)
+21:58:20	Warning: 	Retry after error -4 (No data (connection closed)) at link junaidhira.com/demo/html/tile/font/roboto/Roboto-Regular.ttf (from junaidhira.com/demo/html/tile/css/materialize.min.css)
+21:58:26	Warning: 	Retry after error -4 (No data (connection closed)) at link junaidhira.com/demo/html/tile/font/roboto/Roboto-Bold.ttf (from junaidhira.com/demo/html/tile/css/materialize.min.css)
+21:58:30	Warning: 	Retry after error -4 (No data (connection closed)) at link junaidhira.com/demo/html/tile/css/AjaxLoader.gif (from junaidhira.com/demo/html/tile/css/owl.theme.css)
+21:58:31	Warning: 	Retry after error -4 (No data (connection closed)) at link junaidhira.com/demo/html/tile/img/blog/thumb/bt-2.jpg (from junaidhira.com/demo/html/tile/single-blog.html)
+21:58:39	Warning: 	Found for junaidhira.com/demo/html/tile/css/AjaxLoader.gif
+21:58:39	Warning: 	File has moved from junaidhira.com/demo/html/tile/css/AjaxLoader.gif to http://themeforest.net/user/junaidhira
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 43 seconds : 103 links scanned, 91 files written (5077108 bytes overall) [4102057 bytes received at 25165 bytes/sec], 2428325 bytes transferred using HTTP compression in 52 files, ratio 58%, 4.9 requests per connection
+(No errors, 14 warnings, 0 messages)
