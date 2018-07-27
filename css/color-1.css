@@ -36,7 +36,48 @@
 .single-portfolio-share a,
 .single-portfolio-share a:hover,
 .owl-theme .owl-controls .owl-page span{
-    background-color: #0EB57D;
+    background-color: #00000040;
+}
+
+.site-header-contact a,
+.site-header-contact a:hover,
+.top-section,
+.menu-bar,
+.search-open,
+.about-more a,
+.about-more a:hover,
+.arrow-box,
+.about-social,
+.progress-bar > span,
+.portfolio-content figcaption,
+.portfolio-more a,
+.portfolio-more a:hover,
+.blog-more a,
+.blog-more a:hover,
+.blog-all a,
+.blog-all a:hover,
+.pagination a,
+.pagination a:hover,
+.timeline-time,
+.testimonial-data,
+.pricing-title,
+.pricing-price,
+.pricing-order a,
+.pricing-order a:hover,
+.c-info span:first-of-type,
+.contact-map-btn,
+.contact-form button[type="submit"],
+.footer,
+.back-to-top,
+.back-to-top:hover,
+.comment-form button,
+.comment-form button:hover,
+.single-blog-navigation a,
+.single-blog-navigation a:hover,
+.single-portfolio-share a,
+.single-portfolio-share a:hover,
+.owl-theme .owl-controls .owl-page .asd span{
+    background-color: #000000cf;
 }
 
 .site-logo a,
