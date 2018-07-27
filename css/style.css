@@ -1458,12 +1458,13 @@ ol.ff-roboto-cn li, ul.ff-roboto-cn li{
 }
 
 .c-info span:last-of-type{
-	position: absolute;
-	font-size: 16px;
-	color: #666666;
-	line-height: 24px;
-	padding-left: 10px;
-	line-height: 35px;
+	    position: absolute;
+    font-size: 16px;
+    color: #666666;
+    line-height: 24px;
+    padding-left: 10px;
+    line-height: 17px;
+    margin-top: 9px;
 }
 
 .contact-map-btn{
