@@ -30,6 +30,28 @@ body {
     overflow:hidden;
 }
 </style>
+<script>
+
+function calculate_age(birth_month,birth_day,birth_year)
+{
+    today_date = new Date();
+    today_year = today_date.getFullYear();
+    today_month = today_date.getMonth();
+    today_day = today_date.getDate();
+    age = today_year - birth_year;
+
+    if ( today_month < (birth_month - 1))
+    {
+        age--;
+    }
+    if (((birth_month - 1) == today_month) && (today_day < birth_day))
+    {
+        age--;
+    }
+    return age;
+}
+
+</script>
 		
 	</head>
 	<body>
@@ -116,7 +138,26 @@ body {
 									<div class="overview-name">I'm <span>Subhan Khan</span></div>
 									<div class="overview-title">Software Engineer & Coffee Addict</div>
 									<div class="overview-data">
-										<div><span>Age</span>20</div>
+										<div><span>Age</span>function calculate_age(birth_month,birth_day,birth_year)
+{
+    today_date = new Date();
+    today_year = today_date.getFullYear();
+    today_month = today_date.getMonth();
+    today_day = today_date.getDate();
+    age = today_year - birth_year;
+
+    if ( today_month < (birth_month - 1))
+    {
+        age--;
+    }
+    if (((birth_month - 1) == today_month) && (today_day < birth_day))
+    {
+        age--;
+    }
+    return age;
+}function(){
+										
+										}</div>
 										<div><span>Address</span>House No:2/145 ,Block no: 02,Azizabad,Karachi,Pakistan</div>
 										<div><span>Email</span>k.subhan9090@gmail.com</div>
 										<div><span>Phone</span>+92 3172475842</div>
